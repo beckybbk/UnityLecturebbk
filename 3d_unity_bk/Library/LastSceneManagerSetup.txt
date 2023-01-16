@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FirstClass/Scene/FirstClass.unity
+- path: Assets/Instantiate and Destroy/scene/Instantiate and Destroy_example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
