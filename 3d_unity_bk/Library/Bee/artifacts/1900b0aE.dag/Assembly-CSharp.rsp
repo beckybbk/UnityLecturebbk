@@ -353,6 +353,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation_Blend/script/Motion.cs"
+"Assets/Animation_Clip/script/FlieLoad.cs"
+"Assets/Animation_Clip/script/Popup.cs"
 "Assets/Animator/script/AnimationAction.cs"
 "Assets/FirstClass/Script/Test.cs"
 "Assets/Instantiate and Destroy/script/create.cs"
