@@ -352,6 +352,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Animation Clip/Script/FileLoad.cs"
+"Assets/Animation Clip/Script/PopUp.cs"
 "Assets/Animation_Blend/script/Motion.cs"
 "Assets/Animation_Clip/script/FlieLoad.cs"
 "Assets/Animation_Clip/script/Popup.cs"
@@ -360,6 +362,9 @@
 "Assets/Instantiate and Destroy/script/create.cs"
 "Assets/Instantiate and Destroy/script/delay.cs"
 "Assets/Instantiate and Destroy/script/delete.cs"
+"Assets/NavMeshAgent/script/Controller.cs"
+"Assets/Sound/Script/Control.cs"
+"Assets/Sound/Script/SoundManager.cs"
 -langversion:9.0
 
 /deterministic
