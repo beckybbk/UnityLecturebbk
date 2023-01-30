@@ -363,6 +363,7 @@
 "Assets/Instantiate and Destroy/script/delay.cs"
 "Assets/Instantiate and Destroy/script/delete.cs"
 "Assets/material/script/CharacterControll.cs"
+"Assets/material/script/Sensor.cs"
 "Assets/NavMeshAgent/script/Controller.cs"
 "Assets/Sound/Script/Control.cs"
 "Assets/Sound/Script/SoundManager.cs"
