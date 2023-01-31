@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/material/scene/Collision Example.unity
+- path: Assets/Light/scene/Light Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
