@@ -367,6 +367,7 @@
 "Assets/Light/script/LightManager.cs"
 "Assets/Light/script/Patrol.cs"
 "Assets/NavMeshAgent/script/Controller.cs"
+"Assets/NavMeshObstacle/script/Arrival.cs"
 "Assets/Sound/Script/Control.cs"
 "Assets/Sound/Script/SoundManager.cs"
 -langversion:9.0

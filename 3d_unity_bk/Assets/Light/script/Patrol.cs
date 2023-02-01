@@ -4,15 +4,26 @@ using UnityEngine;
 
 public class Patrol : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] int distance = 3;
 
-    // Update is called once per frame
     void Update()
     {
-        
+        transform.position = Vector3.MoveTowards
+            (
+                transform.position,
+                new Vector3(distance, 1, 0),
+                1 * Time.deltaTime
+            );
+
+        if(transform.position.x>=3)
+        {
+            distance= -3;
+
+        }
+
+        else if(transform.position.x<=-3) 
+        { 
+            distance= 3;
+        }
     }
 }

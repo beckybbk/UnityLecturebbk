@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Light/scene/Light Example.unity
+- path: Assets/NavMeshObstacle/scene/NavMeshObstacle.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
