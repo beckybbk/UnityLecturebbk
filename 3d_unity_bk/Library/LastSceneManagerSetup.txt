@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/NavMeshObstacle/scene/NavMeshObstacle.unity
+- path: Assets/Animation Retargeting/scene/Animation Retargeting Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
