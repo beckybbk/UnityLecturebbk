@@ -354,6 +354,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation Clip/Script/FileLoad.cs"
 "Assets/Animation Clip/Script/PopUp.cs"
+"Assets/Animation Layer/script/State.cs"
 "Assets/Animation Retargeting/script/AnimationControl.cs"
 "Assets/Animation Retargeting/script/DataSystem.cs"
 "Assets/Animation_Blend/script/Motion.cs"
