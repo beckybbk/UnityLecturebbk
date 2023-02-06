@@ -372,6 +372,8 @@
 "Assets/NavMeshAgent/script/Controller.cs"
 "Assets/NavMeshObstacle/script/Arrival.cs"
 "Assets/NavMeshObstacle/script/AutoMove.cs"
+"Assets/Rotation/script/Observer.cs"
+"Assets/Rotation/script/Revolution.cs"
 "Assets/Sound/Script/Control.cs"
 "Assets/Sound/Script/SoundManager.cs"
 -langversion:9.0
