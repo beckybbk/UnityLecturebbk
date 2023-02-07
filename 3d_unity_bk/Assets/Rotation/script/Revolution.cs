@@ -27,7 +27,7 @@ public class Revolution : MonoBehaviour
             );
 
             moon.transform.Rotate(0.1f, 0.1f, 0.1f);
-            yield return null;
+            yield return null; // 자주 사용하는 함수인 Update()가 끝나면 그때 이 구문의 아랫부분이 실행됨. 
         }
     }
 
