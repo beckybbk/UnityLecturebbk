@@ -369,6 +369,8 @@
 "Assets/Instantiate and Destroy/script/delete.cs"
 "Assets/Light/script/LightManager.cs"
 "Assets/Light/script/Patrol.cs"
+"Assets/Mouse Function/script/Mousse.cs"
+"Assets/Mouse Function/script/Zoom.cs"
 "Assets/NavMeshAgent/script/Controller.cs"
 "Assets/NavMeshObstacle/script/Arrival.cs"
 "Assets/NavMeshObstacle/script/AutoMove.cs"
