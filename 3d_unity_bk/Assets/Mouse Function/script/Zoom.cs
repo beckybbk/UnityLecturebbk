@@ -14,7 +14,7 @@ public class Zoom : MonoBehaviour
             (
                 mainCamera.fieldOfView,
                 20.0f,
-                60.0f
+                90.0f
             );
 
         mainCamera.fieldOfView += distance;  

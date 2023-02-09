@@ -352,12 +352,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba4c04813c1f64d4592da86a4ff03eba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rigid: {fileID: 0}
-  state: {fileID: 0}
-  video: {fileID: 0}
+  rigid: {fileID: 824872313}
+  state: {fileID: 832210267}
+  video: {fileID: 833412525}
   layerMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!65 &824872309
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -715,7 +715,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 111
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1143,8 +1143,8 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.03
+  m_Center: {x: -0.0025, y: -0.4475, z: 0.065}
 --- !u!1001 &2071700363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1212,9 +1212,29 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 521293164145740060, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 481a694025eb0cf49af60857b8b84542, type: 2}
+    - target: {fileID: 521293164145740060, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 481a694025eb0cf49af60857b8b84542, type: 2}
     - target: {fileID: 919132149155446097, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
       propertyPath: m_Name
       value: HD TV
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2815371896843997408, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 481a694025eb0cf49af60857b8b84542, type: 2}
+    - target: {fileID: 2815371896843997408, guid: a74ddad5208814543929e7d8779bbff9, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 481a694025eb0cf49af60857b8b84542, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a74ddad5208814543929e7d8779bbff9, type: 3}

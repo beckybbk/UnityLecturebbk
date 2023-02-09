@@ -364,6 +364,7 @@
 "Assets/Collision/script/CharacterControll.cs"
 "Assets/Collision/script/Sensor.cs"
 "Assets/FirstClass/Script/Test.cs"
+"Assets/Game/script/SceneMove.cs"
 "Assets/Instantiate and Destroy/script/create.cs"
 "Assets/Instantiate and Destroy/script/delay.cs"
 "Assets/Instantiate and Destroy/script/delete.cs"

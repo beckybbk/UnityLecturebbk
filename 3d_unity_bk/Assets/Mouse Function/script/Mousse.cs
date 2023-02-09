@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Video;
 
+
 public class Mousse : MonoBehaviour
 {
     bool power = false;
@@ -32,5 +33,32 @@ public class Mousse : MonoBehaviour
             }
 
         }
+    }
+
+    private void OnMouseDown()
+    {
+        state.SetActive(true);
+        rigid.isKinematic= true;    
+    }
+
+    private void OnMouseDrag() 
+    {
+        Vector3 mousePosition = new Vector3 // 마우스 위치 설정. 
+            (
+                Input.mousePosition.x,
+                Input.mousePosition.y,
+                Camera.main.WorldToScreenPoint(gameObject.transform.position).z
+            );
+
+        Vector3 objectPosition = Camera.main.ScreenToWorldPoint(mousePosition);
+        //△ 마우스 좌표를 ScreenToWorldPoint로 변경해 오브젝트의 위치로 변경. 
+        transform.position = objectPosition;
+    }
+
+    private void OnMouseUp() 
+    { 
+        state.SetActive(false);
+        rigid.isKinematic= false;
+
     }
 }
