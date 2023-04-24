@@ -355,6 +355,7 @@
 "Assets/Animator Controller/Script/AnimatorManager_Model.cs"
 "Assets/Instantiate_Destroy/Script/Create.cs"
 "Assets/Instantiate_Destroy/Script/Delete.cs"
+"Assets/NavMesh Agent/Script/Controller_Nav.cs"
 "Assets/Script/A/A.cs"
 "Assets/Script/A/B.cs"
 "Assets/Script/A/ControlPrevious.cs"
