@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Instantiate_Destroy/Scene/InstantiateDestroyExample.unity
+- path: Assets/Animator Controller/Scene/Animator Controller Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

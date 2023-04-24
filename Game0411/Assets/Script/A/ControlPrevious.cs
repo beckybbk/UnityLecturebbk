@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Control : MonoBehaviour
+public class ControlPrevious : MonoBehaviour
 {
     // Awake : 스크립트 "비활성화 된 상태"로 게임 오브젝트 생성시 단 한번만 호출하는 이벤트 함수.
     private void Awake()
