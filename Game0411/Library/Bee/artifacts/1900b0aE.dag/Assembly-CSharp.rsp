@@ -360,6 +360,8 @@
 "Assets/Mouse Function/script/Mouse.cs"
 "Assets/Mouse Function/script/Zoom.cs"
 "Assets/NavMesh Agent/Script/Controller_Nav.cs"
+"Assets/Rotation/Script/Observer.cs"
+"Assets/Rotation/Script/Revolution.cs"
 "Assets/Script/A/A.cs"
 "Assets/Script/A/B.cs"
 "Assets/Script/A/ControlPrevious.cs"

@@ -156,12 +156,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dd3d9c407529a84cbf2212b71977a77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rigid: {fileID: 0}
+  rigid: {fileID: 150872177}
   state: {fileID: 1447284376}
-  video: {fileID: 0}
+  video: {fileID: 1867047898}
   layerMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!65 &150872173
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -365,6 +365,18 @@ PrefabInstance:
     - target: {fileID: 100000, guid: a500127fca10e4f4f9517ee629edd571, type: 3}
       propertyPath: m_Name
       value: HD TV
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a500127fca10e4f4f9517ee629edd571, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: a500127fca10e4f4f9517ee629edd571, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: a500127fca10e4f4f9517ee629edd571, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a500127fca10e4f4f9517ee629edd571, type: 3}
       propertyPath: m_RootOrder
@@ -1097,7 +1109,7 @@ GameObject:
   - component: {fileID: 1867047900}
   - component: {fileID: 1867047899}
   - component: {fileID: 1867047898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Screen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
