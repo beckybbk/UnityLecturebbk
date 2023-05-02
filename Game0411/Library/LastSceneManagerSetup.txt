@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Rotation/Scene/Rotation Example.unity
+- path: Assets/Animation Blend Tree/Scene/Animation Blend Tree Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
