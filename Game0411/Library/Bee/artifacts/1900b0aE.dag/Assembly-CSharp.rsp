@@ -361,6 +361,8 @@
 "Assets/Mouse Function/script/Mouse.cs"
 "Assets/Mouse Function/script/Zoom.cs"
 "Assets/NavMesh Agent/Script/Controller_Nav.cs"
+"Assets/Physics/Script/BilliardBall.cs"
+"Assets/Physics/Script/PhysicsManager.cs"
 "Assets/Rotation/Script/Observer.cs"
 "Assets/Rotation/Script/Revolution.cs"
 "Assets/Script/A/A.cs"
