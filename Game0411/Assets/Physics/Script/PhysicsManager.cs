@@ -7,12 +7,7 @@ public class PhysicsManager : MonoBehaviour
     private Ray ray;
     private RaycastHit rayCastHit;
 
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+   
     private void Update()
     {
         ray = Camera.main.ScreenPointToRay(Input.mousePosition);
