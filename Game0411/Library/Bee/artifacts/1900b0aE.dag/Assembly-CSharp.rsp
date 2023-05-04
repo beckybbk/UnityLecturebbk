@@ -353,6 +353,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation Blend Tree/Script/Motion.cs"
+"Assets/Animation Layer/Script/State0504.cs"
 "Assets/Animation Retargeting/Script/AnimatorManager0427.cs"
 "Assets/Animator Controller/Script/AnimatorManager_Model.cs"
 "Assets/Instantiate_Destroy/Script/Create.cs"
